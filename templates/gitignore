@@ -1,0 +1,48 @@
+# Claude Code internals (auto-generated)
+.obsidian/
+backups/
+file-history/
+paste-cache/
+debug/
+history.jsonl
+cache/
+/tasks/
+/plans/
+
+# Session data (large, auto-generated)
+projects/*/*.jsonl
+projects/*/subagents/
+projects/*/tool-results/
+projects/*/*/subagents/
+projects/*/*/tool-results/
+
+# Hook markers (transient)
+state/.session-start
+state/.session-reminded
+
+# Python cache
+__pycache__/
+scripts/__pycache__/
+
+# IDE / editor
+ide/
+.DS_Store
+
+# Telemetry
+telemetry/
+
+# Shell snapshots
+shell-snapshots/
+
+# MCP
+mcp-servers/
+mcp-needs-auth-cache.json
+
+# Plugins
+plugins/
+
+# Logs
+logs/
+
+# Machine-local state
+.env
